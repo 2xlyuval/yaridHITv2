@@ -11199,7 +11199,7 @@ p.nominalBounds = new cjs.Rectangle(-9,-2,1289.9,724.8);
 			questionTXT.y = -30;
 			questionTXT.font = "18pt Rubik black"
 			questionTXT.text = myGame[rndQuestion][0][0];
-			/*	console.log("questionTXT: ", questionTXT)*/
+				console.log("questionTXT: ", questionTXT)
 			questionTXT.lineWidth = 380;
 			questionHolder.addChild(questionTXT);
 		
